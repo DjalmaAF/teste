@@ -1,4 +1,5 @@
-Hello wolrd.
+console.log ("Hello wolrd.")
+
 Olá mundo.
 
 
@@ -7,7 +8,3 @@ alterei kakakakakkkakak
 uhuuu
 \   /
  \@/
-
-
-
- oi Matheus Blz ? 99999
